@@ -1,4 +1,4 @@
-                                                                                    YOUTUBE SUBSCRIBED DATA ANALYSIS 
+YOUTUBE SUBSCRIBED DATA ANALYSIS 
 Overview
 This project focuses on collecting and analyzing data from YouTube channels to gain insights into their performance. Using the YouTube API, information such as views, subscribers, and video details is gathered 
 from subscribed channels. The collected data undergoes a thorough process of cleaning and processing to ensure accuracy and usability. The final dataset is then stored in an Excel file for easy access and sharing.
